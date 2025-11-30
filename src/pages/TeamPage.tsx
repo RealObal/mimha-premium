@@ -3,7 +3,7 @@ import { Users } from 'lucide-react';
 export default function TeamPage() {
   const teamMembers = [
     {
-      name: 'Dr. Opiyo Joel',
+      name: 'Dr. Opio Joel',
       position: 'Executive Director',
       bio: 'Leading MIMHA\'s strategic vision and overall organizational management, bringing extensive experience in mental health and community-based healthcare.',
       photo: '/team/dr-opiyo-joel.jpg'
